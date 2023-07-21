@@ -15,11 +15,7 @@ The script includes the following key components:
 4. Pygame Visualization: The simulation is displayed using Pygame. The map and car sprites are loaded, and the car's movements and sensor readings are drawn on the screen.
 
 ## Required Libraries
-The following libraries are required to run the script:
-```
-pip3 install Pygame
-pip3 install neat-python
-```
+The following libraries are required to run the script: PyGame, Neat-Python
 ## Installation
 
 Install the required libraries using pip. Open a terminal or command prompt and run the following commands:
