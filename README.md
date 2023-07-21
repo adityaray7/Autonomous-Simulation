@@ -17,12 +17,10 @@ The script includes the following key components:
 ## Required Libraries
 The following libraries are required to run the script:
 
-Python 3.x
 Pygame
 neat-python
 
 ## Installation
-Make sure you have Python 3.x installed. If not, download and install it from the official Python website: https://www.python.org/downloads/
 
 Install the required libraries using pip. Open a terminal or command prompt and run the following commands:
 
